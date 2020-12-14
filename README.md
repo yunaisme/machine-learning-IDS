@@ -1,8 +1,3 @@
-# machine-learning-models-for-intrusion-detection
-machine learning models for intrusion detection
-
----------------------
-
 ## ARP Spoofing IDS System implementation
 - 사이버물리시스템보안 중간고사 프로젝트 주제
 - NN, DT
