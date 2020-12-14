@@ -1,7 +1,7 @@
 ## ARP Spoofing IDS implementation
 - 사이버물리시스템보안 중간고사 프로젝트
 - NN, DT
-- DT 정확도 매우 떨어짐
+- DT 정확도 왜 저러냐
 
 
 
